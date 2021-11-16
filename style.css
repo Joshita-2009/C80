@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(#ff0000 0%, #0000ff 100%);
+    color: aqua;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border: 5px double greenyellow;
+}
